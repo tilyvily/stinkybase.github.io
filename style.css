@@ -1,0 +1,23 @@
+.box {
+    display: flex;
+    height: 100vh;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+img {
+    height: 458px;
+    width: 458px;
+}
+
+body {
+    line-height: 1;
+    background-color: rgb(255, 247, 205);
+}
+
+
+::-webkit-scrollbar {
+    width: 1px;
+}
+
+
